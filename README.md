@@ -17,7 +17,7 @@ To make the most of this repository and earn your SQL LeetCode Badge, follow the
 
 ## Getting Started
 Before diving into the LeetCode questions, ensure you have the following:
-
+ 
 - A basic understanding of SQL concepts and syntax.
 - A LeetCode account to access the SQL questions mentioned in the study plan.
 - A working SQL environment to run and test your code (e.g., MySQL, PostgreSQL, or SQLite).
